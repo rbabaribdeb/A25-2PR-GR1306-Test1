@@ -1,0 +1,1 @@
+print("Fonctionnalité de Eric")
